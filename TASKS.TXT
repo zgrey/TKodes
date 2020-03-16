@@ -1,0 +1,14 @@
+Adding a file for tracking tasks and ideas:
+
+Zach/Thurston:
+
+- Review SEIR modeling and determine how the existing graphs (e.g., the drivetrain graph)
+can be used to inform and initialize an SEIR model
+	- How do we interpret Susceptible (S), Exposed (E), Infectious (I), Hospitalized (H), and various Removals (R's)
+	in the drivetrain example?
+	- What is the quantity of interest as an output? (e.g., R_0 reproduction number)
+	- What are the nonminal parameter values so that we can perturb these values?
+
+- Given Thurston's "learned" graph network, let's model the associated dynamics
+	- Does SEIR even make sense?
+	- Let's tabulate alternatives
